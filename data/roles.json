@@ -1,0 +1,69 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "description": "Designs and develops responsive frontend interfaces and scalable backend services, integrating APIs, databases, and modern cloud deployment pipelines.",
+    "required_skills": ["JavaScript", "React", "Node.js", "SQL", "Git", "REST API", "HTML", "CSS"],
+    "optional_skills": ["TypeScript", "Next.js", "Docker", "PostgreSQL", "MongoDB", "AWS", "Tailwind CSS"]
+  },
+  {
+    "role": "Frontend Developer",
+    "description": "Builds high-performance, interactive, and accessible web user interfaces using modern client-side frameworks, responsive styling, and state management.",
+    "required_skills": ["JavaScript", "HTML", "CSS", "React", "Git", "Tailwind CSS"],
+    "optional_skills": ["TypeScript", "Next.js", "Redux", "Vue.js", "Figma", "Jest"]
+  },
+  {
+    "role": "Backend Engineer",
+    "description": "Architects resilient server-side applications, microservices, high-throughput database interactions, caching layers, and asynchronous messaging pipelines.",
+    "required_skills": ["Python", "SQL", "REST API", "Git", "PostgreSQL", "Docker"],
+    "optional_skills": ["FastAPI", "Django", "Node.js", "Go", "Java", "Redis", "Apache Kafka", "Microservices"]
+  },
+  {
+    "role": "Data Scientist",
+    "description": "Extracts predictive insights from structured and unstructured data using statistical modeling, feature engineering, machine learning, and deep learning algorithms.",
+    "required_skills": ["Python", "Machine Learning", "Scikit-Learn", "Pandas", "NumPy", "SQL", "Statistics"],
+    "optional_skills": ["Deep Learning", "PyTorch", "TensorFlow", "Natural Language Processing", "Data Visualization", "Large Language Models"]
+  },
+  {
+    "role": "Data Analyst",
+    "description": "Analyzes complex datasets, designs executive dashboards, identifies business trends, and drives data-informed decisions across business units.",
+    "required_skills": ["SQL", "Excel", "Python", "Data Visualization", "Data Analysis", "Statistics"],
+    "optional_skills": ["Pandas", "NumPy", "PostgreSQL", "Problem Solving", "Communication"]
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "description": "Builds, optimizes, and productionizes machine learning, deep learning, and generative AI models at scale with continuous inference and MLOps.",
+    "required_skills": ["Python", "Machine Learning", "Deep Learning", "PyTorch", "Scikit-Learn", "Docker", "Git"],
+    "optional_skills": ["TensorFlow", "FastAPI", "AWS", "Kubernetes", "Large Language Models", "Computer Vision", "Natural Language Processing"]
+  },
+  {
+    "role": "Cloud & DevOps Engineer",
+    "description": "Automates cloud infrastructure provisioning, container orchestration, CI/CD deployment pipelines, system observability, and security hardening.",
+    "required_skills": ["Linux", "Docker", "Kubernetes", "AWS", "CI/CD", "Git"],
+    "optional_skills": ["Terraform", "Ansible", "Python", "Azure", "Google Cloud Platform", "Nginx", "Microservices"]
+  },
+  {
+    "role": "Python Developer",
+    "description": "Develops clean, modular Python applications, automated data processing scripts, backends, and integrations using Python idioms and packages.",
+    "required_skills": ["Python", "SQL", "Git", "REST API", "FastAPI"],
+    "optional_skills": ["Django", "Flask", "Docker", "PostgreSQL", "Redis", "PyTest", "Pandas"]
+  },
+  {
+    "role": "Mobile App Developer",
+    "description": "Engineers cross-platform or native mobile applications with smooth gestures, local data persistence, and performant API communications.",
+    "required_skills": ["React", "JavaScript", "Git", "REST API"],
+    "optional_skills": ["TypeScript", "Kotlin", "Swift", "Dart", "Firebase", "Redux"]
+  },
+  {
+    "role": "QA & Test Automation Engineer",
+    "description": "Ensures software quality, reliability, and regression resilience through automated end-to-end testing frameworks, unit testing, and continuous verification.",
+    "required_skills": ["Python", "Selenium", "Git", "CI/CD"],
+    "optional_skills": ["JavaScript", "Jest", "PyTest", "Postman", "SQL", "Docker"]
+  },
+  {
+    "role": "AI / GenAI Engineer",
+    "description": "Develops intelligent agentic workflows, Retrieval-Augmented Generation (RAG) architectures, fine-tunes LLMs, and deploys scalable AI applications.",
+    "required_skills": ["Python", "Large Language Models", "Natural Language Processing", "FastAPI", "Git", "Machine Learning"],
+    "optional_skills": ["PyTorch", "Docker", "Vector DBs", "AWS", "Scikit-Learn", "TypeScript"]
+  }
+]
+

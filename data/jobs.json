@@ -1,0 +1,253 @@
+[
+  {
+    "id": "J001",
+    "title": "Junior Full Stack Developer",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "job_type": "Full-time",
+    "description": "Looking for a full stack engineer with hands-on skills in React, Node.js, and SQL to develop scalable web portals and enterprise dashboards.",
+    "required_skills": ["React", "Node.js", "JavaScript", "SQL", "HTML", "CSS"],
+    "url": "https://example.com/jobs/J001"
+  },
+  {
+    "id": "J002",
+    "title": "React Frontend Engineer",
+    "company": "Swiggy",
+    "location": "Bengaluru",
+    "job_type": "Full-time",
+    "description": "Build snappy, consumer-grade food delivery web experiences with React, TypeScript, Tailwind CSS, and state management via Redux Toolkit.",
+    "required_skills": ["React", "JavaScript", "TypeScript", "Tailwind CSS", "HTML", "CSS"],
+    "url": "https://example.com/jobs/J002"
+  },
+  {
+    "id": "J003",
+    "title": "Backend Python Engineer",
+    "company": "Razorpay",
+    "location": "Bengaluru",
+    "job_type": "Full-time",
+    "description": "Design high-concurrency payment APIs and data pipelines using Python, FastAPI, PostgreSQL, Redis, and Docker in a microservices environment.",
+    "required_skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "REST API", "SQL"],
+    "url": "https://example.com/jobs/J003"
+  },
+  {
+    "id": "J004",
+    "title": "Data Analyst Intern",
+    "company": "Flipkart",
+    "location": "Bengaluru",
+    "job_type": "Internship",
+    "description": "Assist analytics team in writing SQL queries, cleaning customer transaction data in Excel and Python, and generating Power BI business reports.",
+    "required_skills": ["SQL", "Excel", "Python", "Data Analysis", "Statistics"],
+    "url": "https://example.com/jobs/J004"
+  },
+  {
+    "id": "J005",
+    "title": "Associate Data Scientist",
+    "company": "Zomato",
+    "location": "Delhi-NCR",
+    "job_type": "Full-time",
+    "description": "Leverage machine learning algorithms, Scikit-Learn, Pandas, and statistics to build demand forecasting and recommendation models for hyper-local delivery.",
+    "required_skills": ["Python", "Machine Learning", "Scikit-Learn", "Pandas", "NumPy", "Statistics", "SQL"],
+    "url": "https://example.com/jobs/J005"
+  },
+  {
+    "id": "J006",
+    "title": "Cloud DevOps Engineer",
+    "company": "TCS",
+    "location": "Hyderabad",
+    "job_type": "Full-time",
+    "description": "Maintain cloud infrastructure on AWS, configure Kubernetes container clusters, build CI/CD deployment pipelines, and write Linux bash automation scripts.",
+    "required_skills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux", "Git"],
+    "url": "https://example.com/jobs/J006"
+  },
+  {
+    "id": "J007",
+    "title": "Machine Learning Engineer",
+    "company": "Ola Electric",
+    "location": "Bengaluru",
+    "job_type": "Full-time",
+    "description": "Train, deploy, and evaluate deep learning and predictive ML models using PyTorch, Python, Docker, and computer vision on IoT edge devices.",
+    "required_skills": ["Python", "Machine Learning", "Deep Learning", "PyTorch", "Docker", "Git"],
+    "url": "https://example.com/jobs/J007"
+  },
+  {
+    "id": "J008",
+    "title": "Software Development Engineer (Frontend)",
+    "company": "Amazon",
+    "location": "Hyderabad",
+    "job_type": "Full-time",
+    "description": "Develop highly available web client components with JavaScript, React, CSS, and unit testing using Jest in a collaborative global agile team.",
+    "required_skills": ["JavaScript", "React", "HTML", "CSS", "Git"],
+    "url": "https://example.com/jobs/J008"
+  },
+  {
+    "id": "J009",
+    "title": "Full Stack Web Developer (MERN)",
+    "company": "PhonePe",
+    "location": "Pune",
+    "job_type": "Full-time",
+    "description": "End-to-end web architecture using React, Node.js, Express.js, MongoDB, and TypeScript. Experience with payment gateways and REST APIs preferred.",
+    "required_skills": ["React", "Node.js", "Express.js", "MongoDB", "JavaScript", "REST API"],
+    "url": "https://example.com/jobs/J009"
+  },
+  {
+    "id": "J010",
+    "title": "Junior Python Developer",
+    "company": "Wipro",
+    "location": "Pune",
+    "job_type": "Full-time",
+    "description": "Write automated ETL scripts and web scrapers with Python, interact with relational databases using SQL, and write unit tests using PyTest.",
+    "required_skills": ["Python", "SQL", "Git", "REST API"],
+    "url": "https://example.com/jobs/J010"
+  },
+  {
+    "id": "J011",
+    "title": "Remote Data Analyst",
+    "company": "InMobi",
+    "location": "Remote",
+    "job_type": "Full-time",
+    "description": "Extract advertising performance insights using SQL queries, Pandas, and Data Visualization tools. Build automated reporting pipelines.",
+    "required_skills": ["SQL", "Data Analysis", "Python", "Data Visualization", "Excel"],
+    "url": "https://example.com/jobs/J011"
+  },
+  {
+    "id": "J012",
+    "title": "GenAI / LLM Application Developer",
+    "company": "Fractal Analytics",
+    "location": "Mumbai",
+    "job_type": "Full-time",
+    "description": "Build cutting-edge RAG systems and LLM powered assistants using Python, LangChain, vector databases, and FastAPI deployed on AWS.",
+    "required_skills": ["Python", "Large Language Models", "Natural Language Processing", "FastAPI", "Git"],
+    "url": "https://example.com/jobs/J012"
+  },
+  {
+    "id": "J013",
+    "title": "QA Automation Engineer",
+    "company": "Cognizant",
+    "location": "Chennai",
+    "job_type": "Full-time",
+    "description": "Design test automation suites with Python, Selenium WebDriver, PyTest, and integrate regression test runs into Jenkins CI/CD pipelines.",
+    "required_skills": ["Python", "Selenium", "CI/CD", "Git"],
+    "url": "https://example.com/jobs/J013"
+  },
+  {
+    "id": "J014",
+    "title": "Backend Systems Developer (Go / Python)",
+    "company": "Postman",
+    "location": "Remote",
+    "job_type": "Full-time",
+    "description": "High throughput distributed backend systems engineering. Work with PostgreSQL, Docker, Redis, and REST APIs at scale.",
+    "required_skills": ["Python", "PostgreSQL", "Docker", "REST API", "SQL", "Git"],
+    "url": "https://example.com/jobs/J014"
+  },
+  {
+    "id": "J015",
+    "title": "Frontend Engineering Intern",
+    "company": "CRED",
+    "location": "Bengaluru",
+    "job_type": "Internship",
+    "description": "Join our design-focused frontend team to build silky smooth interactive user flows with React, Tailwind CSS, and TypeScript.",
+    "required_skills": ["HTML", "CSS", "JavaScript", "React", "Git"],
+    "url": "https://example.com/jobs/J015"
+  },
+  {
+    "id": "J016",
+    "title": "Cloud Infrastructure Engineer",
+    "company": "HCLTech",
+    "location": "Noida",
+    "job_type": "Full-time",
+    "description": "Automate cloud deployment with Terraform, manage container clusters with Docker and Kubernetes, and enforce Linux system reliability.",
+    "required_skills": ["Linux", "AWS", "Docker", "Kubernetes", "CI/CD"],
+    "url": "https://example.com/jobs/J016"
+  },
+  {
+    "id": "J017",
+    "title": "Data Science Intern",
+    "company": "Mu Sigma",
+    "location": "Bengaluru",
+    "job_type": "Internship",
+    "description": "Work with analytics consultants on data wrangling, regression analysis, statistical modeling, and Python scripting for retail clients.",
+    "required_skills": ["Python", "Pandas", "Statistics", "Data Analysis", "Excel"],
+    "url": "https://example.com/jobs/J017"
+  },
+  {
+    "id": "J018",
+    "title": "Full Stack Engineer (Next.js)",
+    "company": "Hasura",
+    "location": "Remote",
+    "job_type": "Full-time",
+    "description": "Build modern developer portals using Next.js, TypeScript, PostgreSQL, GraphQL, and Docker. 100% remote working culture.",
+    "required_skills": ["React", "JavaScript", "SQL", "PostgreSQL", "Git", "REST API"],
+    "url": "https://example.com/jobs/J018"
+  },
+  {
+    "id": "J019",
+    "title": "Machine Learning Research Associate",
+    "company": "Microsoft Research India",
+    "location": "Bengaluru",
+    "job_type": "Full-time",
+    "description": "Conduct applied research on natural language understanding and machine learning architectures using PyTorch, Python, and GPU compute.",
+    "required_skills": ["Python", "Machine Learning", "Deep Learning", "PyTorch", "Natural Language Processing", "Statistics"],
+    "url": "https://example.com/jobs/J019"
+  },
+  {
+    "id": "J020",
+    "title": "Site Reliability Engineer (SRE)",
+    "company": "Zerodha",
+    "location": "Bengaluru",
+    "job_type": "Full-time",
+    "description": "Maintain uptime for India's largest retail brokerage platform. Extensive experience in Linux system internals, Docker, networking, and bash.",
+    "required_skills": ["Linux", "Docker", "CI/CD", "Git", "Python"],
+    "url": "https://example.com/jobs/J020"
+  },
+  {
+    "id": "J021",
+    "title": "Graduate Trainee Engineer",
+    "company": "Tech Mahindra",
+    "location": "Hyderabad",
+    "job_type": "Full-time",
+    "description": "Entry-level training in software engineering fundamentals including Python, SQL, web technologies, and agile software development.",
+    "required_skills": ["Python", "SQL", "HTML", "CSS", "Problem Solving"],
+    "url": "https://example.com/jobs/J021"
+  },
+  {
+    "id": "J022",
+    "title": "Full Stack Python/Django Engineer",
+    "company": "Urban Company",
+    "location": "Gurugram",
+    "job_type": "Full-time",
+    "description": "Develop customer-facing booking and catalog web services using Django, React, PostgreSQL, and Redis cache clusters.",
+    "required_skills": ["Python", "React", "PostgreSQL", "REST API", "SQL", "Git"],
+    "url": "https://example.com/jobs/J022"
+  },
+  {
+    "id": "J023",
+    "title": "Mobile App Developer (React Native)",
+    "company": "Dunzo",
+    "location": "Bengaluru",
+    "job_type": "Full-time",
+    "description": "Develop and ship high-performance mobile UI flows for on-demand local commerce using React Native, JavaScript, and REST APIs.",
+    "required_skills": ["React", "JavaScript", "Git", "REST API"],
+    "url": "https://example.com/jobs/J023"
+  },
+  {
+    "id": "J024",
+    "title": "Business Intelligence Analyst",
+    "company": "Dell Technologies",
+    "location": "Bengaluru",
+    "job_type": "Full-time",
+    "description": "Transform global supply chain telemetry into actionable executive dashboards. Deep SQL proficiency, Excel, and Power BI visualization.",
+    "required_skills": ["SQL", "Excel", "Data Visualization", "Data Analysis", "Communication"],
+    "url": "https://example.com/jobs/J024"
+  },
+  {
+    "id": "J025",
+    "title": "DevOps Automation Specialist",
+    "company": "Oracle India",
+    "location": "Hyderabad",
+    "job_type": "Full-time",
+    "description": "Build continuous delivery pipelines for enterprise cloud applications utilizing Docker containers, Kubernetes, Linux, and Git.",
+    "required_skills": ["Docker", "Kubernetes", "Linux", "CI/CD", "Git"],
+    "url": "https://example.com/jobs/J025"
+  }
+]
+
